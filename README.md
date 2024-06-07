@@ -4,6 +4,7 @@
 - GCP 무료 크레딧을 위한 새 계정 생성
 - 기존 계정(무료 크레딧 모두 소모) 사용시 리소스 조심해서 사용 바람
 ## 2. GCE VM 생성 및 airflow 서버 올리기
+- [Google Cloud CLI](https://cloud.google.com/sdk/docs/install-sdk?hl=ko#deb)
 - [블로그 글 참고](https://srlee056.github.io/p/docker-desktop/)
 - 
 ## 3. GitHub Actions workflow 생성
