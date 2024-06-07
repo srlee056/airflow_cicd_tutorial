@@ -8,6 +8,7 @@
 - 
 ## 3. GitHub Actions workflow 생성
 ### CI
+- GitHub Actions에서 제공하는 [pylint workflow](https://github.com/srlee056/airflow_cicd_tutorial/new/main?filename=.github%2Fworkflows%2Fpylint.yml&workflow_template=ci%2Fpylint)
 - [workflow 참고 1](https://github.com/EcoDataFlow/EcoDataFlow-airflow-repo/blob/main/.github/workflows/airflow-dags-test.yml)
 - [workflow 참고 2](https://github.com/zizzic/airflow_repo/blob/main/.github/workflows/sync_dag_code.yml#L37)
 ### CD
